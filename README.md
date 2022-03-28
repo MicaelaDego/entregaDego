@@ -1,0 +1,2 @@
+# entregaDego
+Primera entrega Python
